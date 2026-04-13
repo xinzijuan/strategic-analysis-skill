@@ -1,4 +1,4 @@
-# Ducc 战略分析技能 (strategic-analysis)
+# 战略分析技能 (strategic-analysis)
 
 围绕特定战略问题进行需求理解、逻辑拆解storyline，通过案头研究、专家访谈等形式给出独特战略判断，形成科技公司偏好的冷静深度PPT。
 
